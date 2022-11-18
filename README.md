@@ -2,7 +2,7 @@
 Imdb like application
 # mini-imdb
 
-Create a IMDB.com like website with basic CRUD and movie listing using C# (Asp.NET MVC / Asp.NET Core). 
+ IMDB.com like website with basic CRUD and movie listing using C# (Asp.NET MVC / Asp.NET Core). 
 
 The application would have the following entities:
 
